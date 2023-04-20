@@ -4,8 +4,8 @@ This is my DIY Simucube Active Pedal prototype structure for the DIY Sim Racing 
 
 Version 1
 
-![Version 1](CAD%20BOB/Image.png)
+(![Alt text](CAD%20BOB/Image.png))
 
 Version 2
 
-![Version 2](CAD%20BOB/Image2.png)
+(![Alt text](CAD%20BOB/Image2.png))
